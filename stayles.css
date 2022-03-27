@@ -1,0 +1,100 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.navbar {
+    width: 100%;
+    position: absolute;
+ }
+.button-sign{
+    height: 42px;
+    border-radius: 3px;
+    width: 120px;
+}
+.form-select {
+   background-color: transparent;
+   border: 1px solid #fff;
+}
+img {
+    max-width: 100%;
+ }
+ section {
+    border-top: 8px solid #2c2c2c;
+    background-color: #000000;
+    padding-top: 50px;
+    padding-bottom: 40px;
+ }
+ section h2 {
+    font-size: 58px;
+    color: #fff;
+    font-weight: bold;
+ }
+ section p {
+    font-size: 32px;
+    color: #fff;
+ }
+ .main-search input {
+   height: 78px;
+
+}
+ h1 {
+    color: #fff;
+    font-size: 80px;
+    font-weight:bold;
+    ;
+ }
+ h3{
+     font-size: 32px;
+    color: #fff;
+ }
+h5 {
+    font-size: 24px;
+   color: #fff;
+}
+.layer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+ }
+ .questions .btn {
+   background-color: #2c2c2c;
+   font-size: 34px;
+   width: 100%;
+   height: 90px;
+   padding-top: 20px;
+   text-align: left;
+   padding-left: 51px;
+   margin-bottom: 8px;
+   border-radius: 0px;
+}
+.questions .card {
+   background-color: #2c2c2c;
+    font-size: 30px;
+    color: #fff;
+    padding-left: 51px;
+}
+.input-group-text {
+   font-size: 28px;
+   background-color: #e50914;
+   color: #fff;
+   border: 0px;
+   cursor: pointer;
+}
+.main-search input {
+   height: 85px;
+}
+.bg-img{
+   background-size: cover;
+}
+a{
+   text-decoration: none;
+   color: gray;
+}
+.footerlist ul{
+   list-style: none;
+
+}
